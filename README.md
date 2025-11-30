@@ -7,7 +7,7 @@ The objective of this project is to forecast future gold prices using historical
 📂 Project Overview  
 
 1. Data Collection  
-Historical gold price data was collected through self-extraction and ExcelR-provided sources.  
+Historical gold price data was collected through self-extraction and AiVarient-provided sources.  
 The consolidated dataset was stored in `Gold_data_Excel.csv` for further analysis.
 
 2. Data Cleaning & Preprocessing  
