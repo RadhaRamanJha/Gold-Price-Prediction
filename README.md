@@ -33,13 +33,13 @@ The objective of this project is to forecast future gold prices using historical
   The trained model was deployed using a Python application (`run.py`) to allow users to predict future gold prices interactively.
 
 * **Files Included**  
-    * Gold_data_Excel.csv – Dataset used for training
-    * gold_price_prediction_EDA.ipynb – Exploratory Data Analysis
-    * model_building_gold_price.ipynb – Model training notebook
-    * pred.pkl – Saved forecasting model
-    * run.py – Deployment script
-    * gold_image.jpeg – Project image
-    * README.md – Project documentation  
+    * **Gold_data_Excel.csv** – Dataset used for training
+    * **gold_price_prediction_EDA.ipynb** – Exploratory Data Analysis
+    * **model_building_gold_price.ipynb** – Model training notebook
+    * **pred.pkl** – Saved forecasting model
+    * **run.py** – Deployment script
+    * **gold_image.jpeg** – Project image
+    * **README.md** – Project documentation  
 
 * **Author**
 Radha Raman Jha  
